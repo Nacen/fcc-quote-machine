@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import useSWR from "swr";
 import Button from "../Button/Button";
 import TwitterButton from "../Button/TwitterButton/TwitterButton";
 import Loader from "../Loader/Loader";
